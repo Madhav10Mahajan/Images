@@ -1,2 +1,2 @@
 # Images
-images of different vehicles
+images of different vehicles used for training,testing and validation 
